@@ -146,44 +146,6 @@ cd ai-shell && make
 
 ---
 
-## 💖 赞助方与资助渠道
-
-HEARTH 是独立开发，正在寻找机构赞助方来资助新硬件 port、协议一致性
-测试套件以及文档翻译。
-
-<table>
-  <tr>
-    <!-- 第一个赞助 logo 槽位；填入后请删掉这一行 placeholder
-         <td align="center"><a href="https://example.org"><img src="https://example.org/logo.svg" height="60" /></a></td>
-    -->
-    <td align="center" style="opacity:0.5">
-      <em>这里可以是你的 logo<br/>—<br/>成为我们的第一个赞助方</em>
-    </td>
-  </tr>
-</table>
-
-### 支持本项目的几种方式
-
-- ⭐ **Star** [hearthd](https://github.com/hearthworks/hearthd) 与
-  [ai-shell](https://github.com/hearthworks/ai-shell) —— 真的能帮我们
-  吸引到更多板子 porter
-- 💵 **GitHub Sponsors**：
-  [github.com/sponsors/ysun](https://github.com/sponsors/ysun)
-  *（月度档位 $5 / $25 / $100 / 自定义）*
-- ☕ **一次性**：[ko-fi.com/yisun](https://ko-fi.com/yisun)
-  *（如不使用请删除或替换）*
-- 🪙 **加密货币** *（可选）*：
-  - BTC：`bc1q…` *（替换）*
-  - ETH：`0x…`  *（替换）*
-- 🏢 **商业许可 / 咨询**：邮件 `syqust@gmail.com`。
-  HEARTH 采用 AGPL-3.0-or-later **+** 商业双授权；商业一侧的收入用于
-  维持全职维护。
-
-> 所有赞助收入都会再投入到板卡硬件、CI 资源以及协议一致性测试。每个
-> repo 的 `FUNDING.md` 里有当前流水账。
-
----
-
 ## 📜 许可
 
 `hearthworks/` 下所有项目均以 **AGPL-3.0-or-later** 开源；同时提供
