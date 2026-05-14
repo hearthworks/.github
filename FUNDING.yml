@@ -1,0 +1,20 @@
+# Org-wide funding sources, surfaced as "Sponsor" buttons on every repo
+# under hearthworks/.  Per-repo FUNDING.yml files (if present) override
+# this. Replace / remove lines that you do not actually use.
+
+github: [ysun]               # GitHub Sponsors handle
+# patreon: ''
+# open_collective: ''
+# ko_fi: 'yisun'
+# tidelift: ''
+# community_bridge: ''
+# liberapay: ''
+# issuehunt: ''
+# otechie: ''
+# lfx_crowdfunding: ''
+# polar: ''
+# buy_me_a_coffee: ''
+# thanks_dev: ''
+custom:
+  - 'mailto:syqust@gmail.com'
+  # - 'https://ko-fi.com/yisun'
