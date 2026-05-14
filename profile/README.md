@@ -144,46 +144,6 @@ of `gdb` are all you need.
 
 ---
 
-## 💖 Sponsors & funders
-
-HEARTH is independently developed and looking for organisational sponsors
-to fund hardware ports, conformance test suites and documentation
-translation.
-
-<table>
-  <tr>
-    <!-- placeholder slot for first sponsor logo; remove this row when filled
-         <td align="center"><a href="https://example.org"><img src="https://example.org/logo.svg" height="60" /></a></td>
-    -->
-    <td align="center" style="opacity:0.5">
-      <em>Your logo here<br/>—<br/>become our first sponsor</em>
-    </td>
-  </tr>
-</table>
-
-### Ways to support the project
-
-- ⭐ **Star** [hearthd](https://github.com/hearthworks/hearthd) and
-  [ai-shell](https://github.com/hearthworks/ai-shell) — visibility
-  genuinely helps recruit board porters.
-- 💵 **GitHub Sponsors**:
-  [github.com/sponsors/ysun](https://github.com/sponsors/ysun)
-  *(monthly tiers: $5 / $25 / $100 / custom)*
-- ☕ **One-off**: [ko-fi.com/yisun](https://ko-fi.com/yisun)
-  *(remove or replace if you don't use ko-fi)*
-- 🪙 **Crypto** *(optional)*:
-  - BTC: `bc1q…` *(replace)*
-  - ETH: `0x…`  *(replace)*
-- 🏢 **Commercial license / consulting**: email `syqust@gmail.com`.
-  HEARTH is dual-licensed AGPL-3.0-or-later **+** commercial; the
-  commercial track funds full-time maintenance.
-
-> All sponsorship revenue is reinvested into board hardware, CI minutes,
-> and protocol-conformance testing.  See `FUNDING.md` in each repo for the
-> current ledger.
-
----
-
 ## 📜 License
 
 Every project under `hearthworks/` is released under
