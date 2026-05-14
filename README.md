@@ -31,7 +31,9 @@ Within ~30 seconds the new content shows up at
 ## What to fill in / replace
 
 The README contains a few obvious placeholders — search for them before
-the first push:
+the first push. **Both** `profile/README.md` (English, default landing
+page) and `profile/README.zh-CN.md` (Chinese) contain the same
+placeholders, so replace each in **both** files:
 
 | Placeholder | Meaning |
 |-------------|---------|
@@ -39,7 +41,11 @@ the first push:
 | GitHub Sponsors link `github.com/sponsors/ysun` | Replace once your Sponsors account is approved (or remove the bullet) |
 | Ko-fi / crypto bullets | Remove if you don't actually offer those |
 | `syqust@gmail.com` | Replace if you create a project alias like `hello@hearthworks.dev` |
-| Sponsor "Your logo here" placeholder row | Remove the whole `<tr>` when you have at least one sponsor |
+| Sponsor "Your logo here" / "这里可以是你的 logo" placeholder row | Remove the whole `<tr>` when you have at least one sponsor |
+
+> Tip: keep section structure 1:1 between the two language files so the
+> top-of-page badge switcher always lands the visitor on a comparable
+> place. When you add a section to one file, mirror it in the other.
 
 ## Optional but recommended
 

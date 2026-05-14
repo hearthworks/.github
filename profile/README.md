@@ -1,5 +1,8 @@
 <div align="center">
 
+[![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge)](./README.md)
+[![中文](https://img.shields.io/badge/lang-中文-lightgrey?style=for-the-badge)](./README.zh-CN.md)
+
 <!-- Banner / logo. Replace with hosted asset once you have one.
      Suggested size 1280×320, keep file under 300 KB. -->
 <a href="https://github.com/hearthworks">
